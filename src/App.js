@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <main>
-      <h1>Web31 is Amazing</h1>
+      <h1>Web31-is-Amazing</h1>
       <h2>
         Deployed with{" "}
         <a
